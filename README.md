@@ -18,36 +18,27 @@
 
 ### 👨‍💻 About Me
 
-```text
-calvin@github:~$ cat about_me.json
-{
-  "name": "Calvin Leo",
-  "role": "Data Science & Machine Learning Enthusiast",
-  "interests": ["Data Analytics", "Machine Learning", "Statistical Modeling", "Software Engineering"],
-  "learning": ["Deep Learning", "Predictive Analytics", "Big Data Tools"],
-  "ask_me_about": ["Python", "R", "SQL / MySQL", "Data Wrangling"]
-}
-```
+Welcome to my GitHub profile! I am a passionate **Data Science & Machine Learning Enthusiast** dedicated to analyzing complex data, discovering meaningful insights, and building predictive models.
 
-- 🔭 **Currently Focusing On**: Data Science, Machine Learning, and Analytics projects.
-- 💡 **Passionate About**: Extracting actionable insights from data & creating predictive models.
-- 🌱 **Learning & Growing**: Expanding skills in advanced data analysis and machine learning algorithms.
-- 📫 **Connect with me**: Reach out on [LinkedIn](https://www.linkedin.com/in/calvin-leo-674466148) or DM on [Instagram](https://www.instagram.com/calvinnnleo).
+- 🔭 **Focus**: Data Science, Machine Learning, and Data Analytics.
+- 💡 **Passionate About**: Turning raw data into actionable insights & predictive intelligence.
+- 🌱 **Currently Learning**: Advanced Machine Learning algorithms & Deep Learning models.
+- 💬 **Ask Me About**: Python, R, SQL/MySQL, Data Analysis & Wrangling.
+- 📫 **Connect With Me**: Reach out on [LinkedIn](https://www.linkedin.com/in/calvin-leo-674466148) or DM me on [Instagram](https://www.instagram.com/calvinnnleo).
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 📊 Data Science, Analytics & Database
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### 💻 Programming Languages & Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+</p>
 
 ---
 
