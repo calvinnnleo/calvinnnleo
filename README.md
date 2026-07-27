@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Hi+%F0%9F%90%8D+I'm+Calvin+Leo;Data+Science+%26+ML+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%A4%96+I'm+Calvin+Leo;AI+%2F+ML+Engineer+%26+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -16,14 +16,14 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🤖 About Me
 
-Welcome to my GitHub profile! I am a passionate **Data Science & Machine Learning Enthusiast** dedicated to analyzing complex data, discovering meaningful insights, and building predictive models.
+Welcome to my GitHub profile! I am an **AI / ML Engineer & Data Scientist** passionate about building intelligent systems, training machine learning models, and extracting actionable insights from complex datasets.
 
-- 🔭 **Focus**: Data Science, Machine Learning, and Data Analytics.
-- 💡 **Passionate About**: Turning raw data into actionable insights & predictive intelligence.
-- 🌱 **Currently Learning**: Advanced Machine Learning algorithms & Deep Learning models.
-- 💬 **Ask Me About**: Python, R, SQL/MySQL, Data Analysis & Wrangling.
+- 🤖 **Focus**: Artificial Intelligence, Machine Learning Engineering & Data Science.
+- 💡 **Passionate About**: Model Development, Predictive Intelligence & AI Solutions.
+- 🌱 **Currently Learning**: Advanced Deep Learning Architectures & MLOps.
+- 💬 **Ask Me About**: Python, ML Algorithms, Data Science & Analytics.
 - 📫 **Connect With Me**: Reach out on [LinkedIn](https://www.linkedin.com/in/calvin-leo-674466148) or DM me on [Instagram](https://www.instagram.com/calvinnnleo).
 
 ---
@@ -32,6 +32,11 @@ Welcome to my GitHub profile! I am a passionate **Data Science & Machine Learnin
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
