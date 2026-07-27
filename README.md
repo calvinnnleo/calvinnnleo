@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vcenter=true&width=550&lines=Hi+%F0%9F%A4%96+I'm+Calvin+Leo;AI+%2F+ML+Engineer+%26+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=BD93F9&center=true&vcenter=true&width=550&lines=Hi+My+Name+is+Calvin+Leo;AI+%2F+ML+Engineer+%26+Data+Scientist;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -81,9 +81,3 @@ Welcome to my GitHub profile! I am an **AI / ML Engineer & Data Scientist** pass
 <div align="center">
   <img src="https://raw.githubusercontent.com/calvinnnleo/calvinnnleo/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
-
----
-
-<p align="center">
-  <sub><i>Designed with ❤️ for Calvin Leo</i></sub>
-</p>
