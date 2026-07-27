@@ -50,8 +50,8 @@ Welcome to my GitHub profile! I am an **AI / ML Engineer & Data Scientist** pass
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calvinnnleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&title_color=BD93F9&icon_color=FF79C6&text_color=F8F8F2&bg_color=282A36" height="165" alt="Calvin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calvinnnleo&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&title_color=BD93F9&text_color=F8F8F2&bg_color=282A36" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=calvinnnleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="Calvin's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=calvinnnleo&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <br />
