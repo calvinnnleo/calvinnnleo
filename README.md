@@ -64,14 +64,14 @@ Welcome to my GitHub profile! I am an **AI / ML Engineer & Data Scientist** pass
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=calvinnnleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="Calvin's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=calvinnnleo&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=calvinnnleo&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="165" alt="Calvin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=calvinnnleo&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="165" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calvinnnleo&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=calvinnnleo&theme=dracula&hide_border=true&background=282A36&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" height="160" alt="GitHub Streak" />
 </div>
 
 ---
